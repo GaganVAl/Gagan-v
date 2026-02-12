@@ -26,8 +26,18 @@
 
 ## 🌐 Socials
 
-LinkedIn — gagan-v-val  
-Email — gagan2004v@gmail.com  
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gagan-v-val" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-081015?style=for-the-badge&logo=linkedin&logoColor=00eaff&labelColor=000000"/>
+</a>
+
+<a href="mailto:gagan2004v@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-081015?style=for-the-badge&logo=gmail&logoColor=00eaff&labelColor=000000"/>
+</a>
+
+</p>
+
 
 ---
 
